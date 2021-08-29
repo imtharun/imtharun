@@ -9,14 +9,14 @@
 ### Connect with me
 
 <a href="mailto:im.tharunprasath@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/imtharun/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
 </a>
 <a href="https://twitter.com/imtharunn">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 <a href="https://codepen.io/imtharun">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" />
 </a>  
