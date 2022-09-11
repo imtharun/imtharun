@@ -3,8 +3,7 @@
 ### About me
 
 - I'm an undergrad student studying Information Technology at PSGCT.
-- I'm interested in Web development, and Blockchain.
-- I love to learn new things.
+- I'm interested in Web development, and learning new things.
 
 ### Connect with me
 
