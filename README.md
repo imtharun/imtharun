@@ -2,8 +2,8 @@
 
 ### About me
 
-- I'm an undergrad student studying Information Technology at PSGCT.
-- I'm interested in Web development, and learning new things.
+- I, as an undergraduate student studying Information Technology at PSGCT, am determined to enhance my understanding and abilities in this field.
+- I'm passionate about web development and constantly seeking new opportunities to learn.
 
 ### Connect with me
 
@@ -15,4 +15,4 @@
 </a>
 <a href="https://codepen.io/imtharun">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" />
-</a>  
+</a>
